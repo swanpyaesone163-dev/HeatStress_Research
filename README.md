@@ -302,7 +302,6 @@ seed = 0
 ```
 
 This makes the generated UHI offsets reproducible between runs, assuming the same input data and configuration.
-
 The principal simulation parameters are defined near the beginning of the notebook, including:
 
 ```python
@@ -320,7 +319,6 @@ SIM_END   = "2022-12-31"
 ## Project Context
 
 This repository contains the computational component of a broader research effort on **vulnerability-differentiated heat-stress alerting for resource-constrained South Asian regions**.
-
 The framework is intended to support research into how different heat-stress indicators and localized temperature variation can influence alert classification, particularly in settings where dense environmental sensing and conventional WBGT instrumentation may be difficult to deploy.
 
 ## Status
@@ -337,4 +335,4 @@ Add the project's chosen license here before publishing the repository.
 
 ### Citation
 
-If this repository is used in academic work, please cite the associated paper/project once the final publication details are available.
+Not Available
